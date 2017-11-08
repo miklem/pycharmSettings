@@ -1,0 +1,21 @@
+<scheme name="Darcula copy" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="created">2017-09-01T17:34:08</property>
+    <property name="ide">PyCharmCore</property>
+    <property name="ideVersion">2017.2.2.0.0</property>
+    <property name="modified">2017-09-01T17:34:53</property>
+    <property name="originalScheme">_@user_Darcula</property>
+  </metaInfo>
+  <attributes>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="6589be" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="79d36a" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
