@@ -1,9 +1,16 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="$SearchWeb">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="ChooseRunConfiguration">
     <keyboard-shortcut first-keystroke="shift alt f10" />
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="ContextHelp" />
   <action id="CopyElement" />
+  <action id="Editor SearchWeb">
+    <keyboard-shortcut first-keystroke="f1" />
+  </action>
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
