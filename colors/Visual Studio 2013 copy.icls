@@ -4,7 +4,7 @@
     <property name="created">2017-11-08T17:19:03</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-11-08T17:20:33</property>
+    <property name="modified">2017-11-08T17:50:13</property>
     <property name="originalScheme">Visual Studio 2013</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="12" />
@@ -545,6 +545,17 @@
     <option name="PY.KEYWORD">
       <value>
         <option name="FOREGROUND" value="367cb8" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="PY.KEYWORD_ARGUMENT">
+      <value>
+        <option name="FOREGROUND" value="99395b" />
+      </value>
+    </option>
+    <option name="PY.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="c4ab4c" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
