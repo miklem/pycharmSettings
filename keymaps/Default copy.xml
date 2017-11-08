@@ -1,4 +1,9 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
+  <action id="CopyElement" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
@@ -11,5 +16,12 @@
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="IpnbRunAllCellsAction">
+    <keyboard-shortcut first-keystroke="shift f10" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
 </keymap>
