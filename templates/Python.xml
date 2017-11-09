@@ -2,7 +2,7 @@
   <template name="def" value="def $def_name$(self):&#10;    pass" description="def with pass" toReformat="true" toShortenFQNames="true">
     <variable name="def_name" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="Python_Class" value="true" />
+      <option name="Python" value="true" />
     </context>
   </template>
 </templateSet>
