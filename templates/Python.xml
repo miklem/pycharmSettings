@@ -5,4 +5,16 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="gui" value="from PySide.QtCore import *&#10;from PySide.QtGui import *" description="import necessary libraries to code" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="class_main" value="class $name$(QMainWindow, $ui_name$):&#10;    def __init__(self):&#10;        super($name$, self).__init__()&#10;        self.setupUi(self)&#10;        &#10;        &#10;if __name__ == '__main__':&#10;    app = QApplication([])&#10;    w = $name$()&#10;    w.show()&#10;    app.exec_()&#10;        &#10;        " description="call main class" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ui_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
