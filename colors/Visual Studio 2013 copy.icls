@@ -4,7 +4,7 @@
     <property name="created">2017-11-08T17:19:03</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2017-11-08T23:28:48</property>
+    <property name="modified">2017-11-15T12:50:47</property>
     <property name="originalScheme">Visual Studio 2013</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="20" />
@@ -532,13 +532,13 @@
     </option>
     <option name="PY.CLASS_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="77958a" />
+        <option name="FOREGROUND" value="4d5c34" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.FUNC_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="d0b5dc" />
+        <option name="FOREGROUND" value="a2c35a" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -550,7 +550,12 @@
     </option>
     <option name="PY.KEYWORD_ARGUMENT">
       <value>
-        <option name="FOREGROUND" value="99395b" />
+        <option name="FOREGROUND" value="998456" />
+      </value>
+    </option>
+    <option name="PY.LINE_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="5e6362" />
       </value>
     </option>
     <option name="PY.NUMBER">
@@ -561,7 +566,7 @@
     </option>
     <option name="PY.PREDEFINED_DEFINITION">
       <value>
-        <option name="FOREGROUND" value="c34e44" />
+        <option name="FOREGROUND" value="a2c35a" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
