@@ -17,4 +17,12 @@
       <option name="Python" value="true" />
     </context>
   </template>
+  <template name="path" value="$file_name$_$path$ = os.path.join(os.path.dirname(__file__), &quot;$file_name$.$ext$&quot;)" description="relative path to the source file" toReformat="false" toShortenFQNames="true">
+    <variable name="file_name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ext" expression="" defaultValue="py" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
 </templateSet>
